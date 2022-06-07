@@ -1,0 +1,44 @@
+⌚ (00:00) Intro
+⌚ (00:35) What's Covered?
+⌚ (01:22) Prerequisites
+⌚ (02:10) Why Reactive Programming?
+⌚ (07:05) What is Reactive Programming
+⌚ (10:17) What is Backpressure?
+⌚ (14:41) What is Reactive Stream?
+⌚ (18:21) Introduction to Project Reactor
+⌚ (19:07) Flux and Mono Reactive types
+⌚ (22:14) Project Setup
+⌚ (23:50) Writing the first Flux
+⌚ (27:06) writing the first Mono
+⌚ (28:40) Logging Reactive Streams
+⌚ (31:14) JUnit testing for Flux and Mono
+⌚ (36:11) Operators in Reactive Programming (map Operator)
+⌚ (40:45) filter Operator
+⌚ (44:37) flatMap Operator
+⌚ (51:08) concatMap Operator
+⌚ (52:48) flatMapMany Operator : convert the mono to Flux as the result 
+⌚ (55:12) transform Operator :  convert one type to another type, using Funtional Interface
+⌚ (59:04) defaultIfEmpty Operator : when ther is no data to be emiited or shared 
+⌚ (01:01:34) switchIfEmpty Operator :  If we are not emitting any data on the operator so we can used the different set of data
+⌚ (01:04:45) concat & concatWith Operator
+⌚ (01:11:08) merge and mergeWith Operator
+⌚ (01:15:23) mergeSequential Operator
+⌚ (01:17:35) zip and zipWith Operator
+⌚ (01:28:27) doOn* Callbacks
+⌚ (01:33:30) Exception Handling
+⌚ (01:34:51) onErrorReturn Operator
+⌚ (01:37:48) onErrorContinue Operator
+⌚ (01:41:41) onErrorMap Operator
+⌚ (01:45:09) doOnerror Operator
+⌚ (01:46:45) Creating Basic Application and Base classes
+⌚ (01:53:16) Getting allBooks
+⌚ (02:02:55) Getting bookById
+⌚ (02:07:04) Custom Exception handling
+⌚ (02:14:39) retry() and retry(n)
+⌚ (02:17:46) retryWhen()
+⌚ (02:22:54) Backpressure example
+⌚ (02:28:07) onBackpressureDrop Operator
+⌚ (02:30:45) onbackPressureBuffer Operator
+⌚ (02:32:18) onBackPressureError operator
+⌚ (02:33:28) Hot and Cold Streams
+⌚ (02:39:05) Debugging Reactive Streams
